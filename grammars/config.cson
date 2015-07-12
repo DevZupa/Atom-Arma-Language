@@ -4,6 +4,8 @@
   'cpp'
   'ext'
   'sqm'
+  'cfg'
+  'ini'
 ]
 'firstLineMatch': '-\\*- armaConfig -\\*-'
 'name': 'Arma config'

@@ -4,6 +4,7 @@
 'fileTypes': [
   'rpt'
   'RPT'
+  'log'
 ]
 'firstLineMatch': '//\\s*(?i:RPT)'
 'foldingStartMarker': '(\\{\\s*(#.*)?$)'
