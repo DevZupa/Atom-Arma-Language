@@ -1,11 +1,11 @@
-'scopeName': 'source.sqf'
+'scopeName': 'source.rpt'
 'name': 'RPT'
 'comment': 'RPT error language'
 'fileTypes': [
   'rpt',
   'RPT'
 ]
-'firstLineMatch': '//\\s*(?i:SQF)'
+'firstLineMatch': '//\\s*(?i:RPT)'
 'foldingStartMarker': '(\\{\\s*(#.*)?$)'
 'foldingStopMarker': '^\\s*(\\})'
 'patterns': [

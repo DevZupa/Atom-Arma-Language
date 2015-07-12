@@ -1,11 +1,11 @@
-'scopeName': 'source.sqf'
-'name': 'Sqf'
-'comment': 'Sqf language'
+'scopeName': 'source.fsm'
+'name': 'Fsm'
+'comment': 'Fsm language'
 'fileTypes': [
-  'sqf'
+  'fsm'
   'sqs'
 ]
-'firstLineMatch': '//\\s*(?i:SQF)'
+'firstLineMatch': '//\\s*(?i:FSM)'
 'foldingStartMarker': '(\\{\\s*(#.*)?$)'
 'foldingStopMarker': '^\\s*(\\})'
 'patterns': [
