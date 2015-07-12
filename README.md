@@ -11,25 +11,25 @@ Originally in:
 Sowly adding extra:
 
 * sqm, ext, cpp, hpp
-* ext
+* fsm
 * rpt, log
 * cfg, ini
 
 ##Install
 
-I can now be found in ATOM ->  Settings -> Install -> search for 'arma'
+It can now be found in the atom package manager (ATOM ->  Settings -> Install -> search for 'arma')
 
 OR
 
 Follow the following steps to mannually install it.
 
-1 Download it
+1 Download it on github
 
 2 Place it in atom's custom package folder (As a folder, not zipped): ( e.g)
   ```
   C:\Users\Zupa\.atom\packages\
   ```
-3 Open a commad window in the package folder itself and execute:
+3 Open a command window in the atom-arma-language package folder and execute:
   ```
   apm install
   ```
