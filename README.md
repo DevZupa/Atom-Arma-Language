@@ -17,7 +17,10 @@ Sowly adding extra:
 
 ##Install
 
-Currently it isn't in the atom package store until i get a decent release ready.
+I can now be found in ATOM ->  Settings -> Install -> search for 'arma'
+
+OR
+
 Follow the following steps to mannually install it.
 
 1 Download it
