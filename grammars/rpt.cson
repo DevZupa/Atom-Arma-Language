@@ -2,7 +2,7 @@
 'name': 'RPT'
 'comment': 'RPT error language'
 'fileTypes': [
-  'rpt',
+  'rpt'
   'RPT'
 ]
 'firstLineMatch': '//\\s*(?i:RPT)'
