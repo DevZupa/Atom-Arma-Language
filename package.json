@@ -1,0 +1,17 @@
+{
+  "name": "antom-arma-language",
+  "description": "Arma language support in Atom",
+  "version": "1.0.0",
+  "engines": {
+    "atom": "*",
+    "node": "*"
+  },
+  "homepage": "https://github.com/DevZupa/Atom-Arma-Language",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DevZupa/Atom-Arma-Language.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DevZupa/Atom-Arma-Language/issues"
+  }
+}
