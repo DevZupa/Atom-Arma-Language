@@ -1,6 +1,6 @@
 {
   "name": "antom-arma-language",
-  "description": "Arma language support in Atom",
+  "description": "Arma language support in Atom (sqf, sqs, sqm, hpp, cpp, ext, fsm, rpt)",
   "version": "1.0.0",
   "engines": {
     "atom": "*",
