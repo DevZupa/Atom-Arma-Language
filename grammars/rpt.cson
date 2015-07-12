@@ -4,6 +4,8 @@
 'fileTypes': [
   'rpt'
   'RPT'
+  'rtp'
+  'RTP'
   'log'
 ]
 'patterns': [
