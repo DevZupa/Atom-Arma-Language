@@ -4,11 +4,16 @@ Adds syntax highlighting and completions for Arma files in Atom.
 
 Planning on adding support for the following files extensions:
 
-* sqm
-* ext
-* rpt
+Originally in:
+* SQF
+* sqs
 
-Also adding cpp, hpp properties in the future.
+Sowly adding extra:
+
+* sqm, ext, cpp, hpp
+* ext
+* rpt, log
+* cfg, ini
 
 ##Install
 

@@ -7,7 +7,6 @@
   'cfg'
   'ini'
 ]
-'firstLineMatch': '-\\*- armaConfig -\\*-'
 'name': 'Arma config'
 'patterns': [
   {
